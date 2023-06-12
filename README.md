@@ -13,4 +13,7 @@ Netology study module
 - файлы override.tf и override.tf.json или аналогичные файлы с префиксом через нижнее подчёркивание
 - файлы конфигурации интерфейса командной строки .terraformrc или terraform.rc
 
-###### Changed in 'fix' branch
+###### На скриншотах ниже показан пример работы с git/lazygit в neovim
+
+![nvim git](screenshots/screenshot041922.png)
+![nvim lazygit](screenshots/screenshot042632.png)
