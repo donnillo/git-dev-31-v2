@@ -12,3 +12,5 @@ Netology study module
 - файлы с расширениями .tfvars и .tfvars.json, которые могут содержать приватные переменные
 - файлы override.tf и override.tf.json или аналогичные файлы с префиксом через нижнее подчёркивание
 - файлы конфигурации интерфейса командной строки .terraformrc или terraform.rc
+
+###### Changed in 'fix' branch
